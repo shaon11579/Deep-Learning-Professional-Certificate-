@@ -10,7 +10,7 @@ A neuron computes an activation function followed by a linear function (z = Wx +
 
 
 
-A neuron computes a function g that scales the input x linearly (Wx + b)
+# A neuron computes a function g that scales the input x linearly (Wx + b)
 
 
 
